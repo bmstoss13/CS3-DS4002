@@ -2,7 +2,7 @@
 This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study pertaining to Spam Email Detection.
 
 ## Necessary Information
-There are two attached PDFs - a Deliverable and Prompt and a rubric - important for succeeding in all of the required tasks.
+There are two attached PDFs - a Prompt and Deliverable document outlining the project and a Rubric document for the guidelines to follow - important for succeeding in all of the required tasks.
 
 ## Data
 The DATA folder contains two csv files - the original dataset, titled "emails.csv", and the cleaned and preprocessed dataset, titled "preprocessed_data.csv."
